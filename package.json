@@ -6,9 +6,17 @@
   "scripts": {
     "dev": "npx nodemon index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apekshachoudhary/book-management-API.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apekshachoudhary/book-management-API/issues"
+  },
+  "homepage": "https://github.com/apekshachoudhary/book-management-API#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.13"

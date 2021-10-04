@@ -58,4 +58,4 @@ let Publication = [
         books: [],
     },
 ];
-module.exports = { Book, Author, Publication };
+module.exports = { Book, Author, Publication }; 

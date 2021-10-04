@@ -56,4 +56,4 @@ Publication
     # DELETE
         - to delete a book from publication
         - to delete a publication
-*/
+*/ 
